@@ -77,7 +77,7 @@ buckets[3] = [1]
 Traverse buckets from end:
 
 * Add 1 → result = \[1]
-* Add 2 → result = \[1, 2] ✅ done (k = 2)
+* Add 2 → result = \[1, 2] done (k = 2)
 
 ---
 
